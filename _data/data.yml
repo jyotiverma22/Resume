@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/uc?id=1R9sxzwDQuf49ZivWqFn1j38rM2EcE0nl&export=download
+    pdf: https://raw.githubusercontent.com/anubhav25/files/main/Resume.pdf
 
     interests:
       - item: Automating Stuff
