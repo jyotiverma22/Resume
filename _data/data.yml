@@ -1,4 +1,4 @@
-#
+9#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -7,18 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Anubhav
-    tagline: Software Engineer IV
+    name: Jyoti Verma
+    tagline: Senior Software Engineer 
     tagline2: (Full Stack Developer)
     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: gupta.anubhav25@gmail.com
-    phone: +91-7404541565
+    email: jyotverma22@gmail.com
+    phone: +91-9541006898
     website: #do not add http://
-    linkedin: gupta-anubhav25
+    linkedin: jyoti-verma-2b20a9114
     xing:
-    github: anubhav25
+    github: jyotiverma22
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://anubhav25.github.io/files/Resume.pdf
+    pdf: https://jyotiverma22.github.io/files/Resume.pdf
 
     interests:
       - item: Automating Stuff
@@ -65,7 +65,7 @@ career-profile:
     title: Career Profile
     summary: |
       Passionate, Self-motivated and hardworking programmer
-      with 5+ years experience seeking an opportunity to work
+      with 6+ years experience seeking an opportunity to work
       in a challenging environment to prove my coding skills and
       make a significant contribution to the success of the employer
       and at the same time pursue my individual growth.
@@ -73,27 +73,17 @@ career-profile:
 education:
     - degree: B.Tech. in Computer Science and Engineering
       university: UIET, Kurukshetra University 
-      time: 2014 - 2018
+      time: 2015 - 2018
       details: |
-        CGPA: 8.09
-    - degree: 10+2 (CBSE)
-      university: GMSSS, sec-32, Chandigarh
-      time: 2013
-      details: |
-        Score: 82.60 %
-    - degree: 10 (CBSE)
-      university: K V AFS Chandigarh
-      time: 2011
-      details: |
-        CGPA: 8.8
+        CGPA: 8.51
 
 experiences:
-    - role: Software Engineer IV
-      time: April 2020 - Present
-      company: 6Sense Insights India Pvt. Ltd., Bengaluru
+    - role: .Net Programmer
+      time: Feb 2024 - Present
+      company: National Informatics Centre, Chandigarh
       details: |
-        - Working as Full Stack Engineer on React + Django + MySQL stack.
-        - Optimized daily pipelines and made process to finding the blockers easy.  
+        - Working as Full Stack Engineer on .Net Core, Javascript.
+        - Worked on .  
         - Worked on multiple modules end-to-end including optimizing and adding new features.
         - Achievements:
           - Recognized multiple times for exceeding expectations.
