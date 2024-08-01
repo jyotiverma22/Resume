@@ -103,6 +103,24 @@ experiences:
         - Developed a food store application to calculate ingredient needs based on order details.
     
 
+projects:
+    title: Projects
+    intro:
+
+    assignments:
+      - title: GIS Portal
+        link:
+        tagline: "A javascript based protal used by various govt. departments to monitor and control Maps and its utilities , built using open layers, .net framework, postgres, geoserver."
+
+      - title: Police NAKA Application
+        link:
+        tagline: "Mobile appication with .net core web api to monitor and control police Naka and Check Vehicles."
+
+      - title: Police Web portal
+        link:
+        tagline: "An Web-App built for registering complaints and providing services to the citizens."
+
+
 
 
 footer: >
