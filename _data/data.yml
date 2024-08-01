@@ -28,9 +28,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # https://anubhav25.github.io/files/Resume.pdf
 
-    interests:
-      - item: Movies
-      - item: Travel
+
 
     extras:
       - title: Technical Skills
@@ -102,6 +100,24 @@ experiences:
         - Built a project management tool linking Azure DevOps with clients to customize project accessibility.
         - Developed a food store application to calculate ingredient needs based on order details.
     
+
+projects:
+    title: Projects
+    intro:
+
+    assignments:
+      - title: GIS Portal
+        link:
+        tagline: "A javascript based protal used by various govt. departments to monitor and control Maps and its utilities , built using open layers, .net framework, postgres, geoserver."
+
+      - title: Police NAKA Application
+        link:
+        tagline: "Mobile appication with .net core web api to monitor and control police Naka and Check Vehicles."
+
+      - title: Police Web portal
+        link:
+        tagline: "An Web-App built for registering complaints and providing services to the citizens."
+
 
 
 
