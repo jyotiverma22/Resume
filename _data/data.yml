@@ -44,11 +44,8 @@ sidebar:
 
       - title: Personal Projects
         items:
-          - 6 weeks training in Android from CDAC, Mohali (June 2016 - July 2016).
-          - 6 weeks training in C and JavaScript from Code Quotient (June 2017 - July 2017).
-          - Android Developer Fundamentals from Google Developers (Dec, 2016).
-          - Ethical Hacking workshop in IIT, Delhi (Feb, 2017).
-          - Sixth sense robotics workshop in IIT-Bombay (Mar, 2018) .
+          - Company Portal > Created Webapp in job training in .net MVC webapi.This app is a company management tool with role base different view. Schedule jobs for the online time capturing.
+          - Student Tracker(Android Application) > Tracking application that uses Google Map to share location to its contacts.Firebase is used for Login database and location storage
 
       - title: Achievements
         items:
