@@ -28,9 +28,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # https://anubhav25.github.io/files/Resume.pdf
 
-    interests:
-      - item: Movies
-      - item: Travel
+
 
     extras:
       - title: Technical Skills
