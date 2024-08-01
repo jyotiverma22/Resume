@@ -81,8 +81,8 @@ experiences:
       time: Feb 2024 - Present
       company: National Informatics Centre, Chandigarh
       details: |
-        - Working on GIS Portal application.
-        - Worked on .Net core web apps and web apis and created Stored procedures
+        - Working on GIS Portal application using C#, javascript postgrea and geoserver.
+        - Worked on .Net core web apps and web apis and writing Stored procedures
         - Deploying and testing application and code review.
         - Achievements:
           - Recognized multiple times for exceeding expectations.
@@ -90,9 +90,8 @@ experiences:
       time: April 2021 - Nov 2023
       company: Nagarro (Remote)
       details: |
-        - Worked on .Net Core Api application where creates the bridge between users and third parties where for hotel booking
-        - Rebuild entire backend for gnani.ai website to increase stability and performance.
-        - Worked on Angular and .Net MVC grant issue system where UI is created dynamically.  
+        - Worked on .Net Core Api application where creates the bridge between users and third parties where for hotel booking.
+        - Worked on Angular 9 and .Net MVC grant issue system where UI is created dynamically.  
     - role: Jr. Associate IT
       time: June 2018 - April 2021
       company: Daffodil Software Pvt. Ltd., Gurgaon
