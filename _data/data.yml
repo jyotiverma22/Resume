@@ -26,24 +26,23 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://anubhav25.github.io/files/Resume.pdf
+    pdf: # https://anubhav25.github.io/files/Resume.pdf
 
     interests:
-      - item: Automating Stuff
       - item: Movies
       - item: Travel
 
     extras:
       - title: Technical Skills
         items:
-          - Data Structures and Algorithms
-          - Front End > React-JS, Angular 5
-          - Back End > Node-JS, Express-JS, DRF, Django
-          - Programming Languages -JavaScript, Python
-          - Databases (SQL & NoSQL) > SQL Server, MySQL, MongoDB, redis
-          - HTML5, CSS, Bootstrap, JQuery, MERN stack, MEAN stack
+          - Frameworks > .Net Core Web API, .Net MVC, .Net Framework, Blazor, Razor Pages, Entity Framework, Dapper
+          - Programming Languages > C#, Javascript
+          - Databases (SQL) > SQL Server, Postgres
+          - Tools and platforms > Azure devops, Visual Studio, TFS, Github, Jira, VS Code
+          - Cloud > AWS Lambda Functions, Azure Functions, API Gateway
+          - HTML5, CSS, Bootstrap, JQuery, Angular
 
-      - title: Training and Workshops
+      - title: Personal Projects
         items:
           - 6 weeks training in Android from CDAC, Mohali (June 2016 - July 2016).
           - 6 weeks training in C and JavaScript from Code Quotient (June 2017 - July 2017).
@@ -53,11 +52,9 @@ sidebar:
 
       - title: Achievements
         items:
-          - 2019 > Got first position in Infosys GEC hackathon.
-          - 2018 > Secured first position in Event "Game of Codes" in Techno Cultural Fest by College.
-          - 2018 > Secured first position in Event "Appathon" at Techno Cultural Fest by College.
-          - 2017 > Submitted an idea for ‘Smart India Hackathon’.
-          - 2015 > Secured Second position in Event "College Bandits" at Techno Cultural Fest by College.
+          - 2022 > Caring Award - Employee of the month (Got multiple Times)
+          - 2019 > Creative Thinking - Award from client in hackthon
+          - 2019 > Customer Delighter - Got award for getting best rating from client in annual function.
 
 
 
